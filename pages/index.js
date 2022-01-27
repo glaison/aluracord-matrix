@@ -66,8 +66,9 @@ function HomePage() {
 export default HomePage */
 
 export default function PaginaInicial() {
-    const username = 'peas';
+    // const username = 'peas';
   
+    const username = 'glaison';
     return (
       <>
         <GlobalStyle />

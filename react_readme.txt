@@ -55,6 +55,9 @@ function GlobalStyle() {
   
   Instalando skynexui
   yarn add @skynexui/components
+  
+  https://vercel.com/glaison/aluracord-matrix
+  aluracord-matrix-olive-ten.vercel.app
 
 
 capitulo 02
